@@ -1,0 +1,5 @@
+defaultprofile default
+profile default
+username vdvout
+password Bz61KJvdREddPcC9Anet
+registry https://dockerregistry.reisendeninfo.aws.db.de:5000

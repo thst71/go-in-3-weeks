@@ -1,0 +1,4 @@
+test for: Lcase
+
+| input | output | description |
+| UPPER | upper | it should output a lowercase string |
